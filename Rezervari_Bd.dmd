@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Rezervari_Bd" id="CDD1C600-20DB-F65C-B346-56406E24E413" version="3.5">
+<createdBy>zalex</createdBy>
+<createdTime>2026-10-28 14:30:50 UTC</createdTime>
+<ownerDesignName>Rezervari_Bd</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>CDD1C600-20DB-F65C-B346-56406E24E413</designId>
+</OSDM_Design>
