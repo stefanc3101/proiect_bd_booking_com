@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="bdp2" id="CB311B2C-86E4-4FA3-D53E-0D1C3FC52D5B" version="3.5">
+<createdBy>Acer</createdBy>
+<createdTime>2026-10-26 12:48:52 UTC</createdTime>
+<ownerDesignName>bdp2</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>CB311B2C-86E4-4FA3-D53E-0D1C3FC52D5B</designId>
+</OSDM_Design>
